@@ -19,19 +19,16 @@ To get started with the project, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yusra05/music-player.git
+   git clone https://github.com/yusra05/Image_Slider.git
 
 2. Navigate to the project folder:
    ```bash
-   cd C:\Users\example\music-player
+   cd C:\Users\example\Image_Slider
 
-3. Install dependencies:
-   ```bash
-    npm install
+3. Open the `index.html` file.
+   
+4. open live server
 
-4. Start the development server:
-   ```bash
-   npm run dev
 
 
 ## Lisence
