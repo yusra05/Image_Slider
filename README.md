@@ -1,6 +1,8 @@
 # Image_Slider
 
-This project is a basic image slider implemented with HTML, CSS, and JavaScript. It allows you to display a series of images in a slideshow format, providing a simple and interactive way to showcase images on your website.
+This project is a basic image slider implemented with HTML, CSS, and JavaScript. It allows you to display a series of images in a slideshow format, providing a simple and interactive way to showcase images on your website.  
+
+[Visit Image Slider here...](https://yusra05-imageslider.netlify.app/)   
 
 https://github.com/yusra05/Image_Slider/assets/112852251/26df3a78-abfe-4e0d-9e87-32b29f87574e
 
